@@ -7,6 +7,7 @@ Web Developer and System Administrator
 * 🌍  I'm based in Salamanca, Spain
 * 🖥️  See my portfolio at [MyPortfolio](http://juanmi-code.github.io/)
 * ✉️  You can contact me at [juanmihc1999jhc@gmail.com](mailto:juanmihc1999jhc@gmail.com)
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Fpixeljeff%2Fart%2FChill-Mario-2023-ver-953012885&psig=AOvVaw1gwmZRuCrNT-cfcHsczmI1&ust=1701706004330000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLD-qIHT84IDFQAAAAAdAAAAABAE">
 
 ### Skills
 
