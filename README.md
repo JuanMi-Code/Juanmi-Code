@@ -10,7 +10,7 @@ Web Developer and System Administrator
 * 🖥️  See my portfolio at [Juanmi-Code.Github.io](https://juanmi-code.github.io/)
 * ✉️  You can contact me at [juanmihc1999jhc@gmail.com](mailto:juanmihc1999jhc@gmail.com)
 <a href="#">
-  <img align="right" width="200" src="https://github.com/JuanMi-Code/JuanMi-Code.github.io/blob/main/images/lofiboy.gif" alt="Coding" >
+  <img align="right" width="200" src="https://juanmi-code.github.io/images/lofiboy.gif" alt="Coding" >
 </a>
 
 ### Skills
