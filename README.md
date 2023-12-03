@@ -1,4 +1,4 @@
-[![MasterHead](https://juanmi-code.github.io/images/mario-head.gif)](https://juanmi-code.github.io/)
+[![MasterHead](https://github.com/JuanMi-Code/Juanmi-Code/blob/main/mario-head.gif)](https://juanmi-code.github.io/)
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Juan Miguel
 ===================================================================================================================================
