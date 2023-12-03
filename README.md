@@ -9,9 +9,7 @@ Web Developer and System Administrator
 * 🌍  I'm based in Salamanca, Spain
 * 🖥️  See my portfolio at [Juanmi-Code.Github.io](https://juanmi-code.github.io/)
 * ✉️  You can contact me at [juanmihc1999jhc@gmail.com](mailto:juanmihc1999jhc@gmail.com)
-<a href="#">
-  <img align="right" width="200" src="https://juanmi-code.github.io/images/lofiboy.gif" alt="Coding" >
-</a>
+<img align="right" width="200" src="https://juanmi-code.github.io/images/lofiboy.gif" alt="Coding" >
 
 ### Skills
 
